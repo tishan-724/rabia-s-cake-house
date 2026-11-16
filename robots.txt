@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tishan-724.github.io/rabia-s-cake-house/sitemap.xml
